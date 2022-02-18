@@ -1,0 +1,31 @@
+.heading{
+    font-size:30px;
+    letter-spacing:8px;
+    margin:0;
+    width: 100%;
+}
+body{
+    background-color: rgb(177, 187, 219); 
+}
+.result_object{
+    background-color: rgb(207, 209, 211);
+    color: rgb(0, 0, 32);
+    font-size: 25px;
+    margin:20px;
+}
+label{
+    border:1px solid gray;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    color:black;
+    font-size:18px;
+    padding: 20px;
+    margin:20px;
+}
+#result,#camera{
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px gainsboro;
+    width: 300px;
+    height: 300px;
+}
